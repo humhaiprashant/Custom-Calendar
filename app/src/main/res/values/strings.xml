@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustomCalendar</string>
+    <string name="nxt_month">Next Month</string>
+    <string name="prev_month">Previous Month</string>
+    <string name="view_tasks">View Tasks</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="your_tasks">"Your Tasks"</string>
+    <string name="back">Back</string>
+    <string name="prompt_delete_task">Delete this task?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
